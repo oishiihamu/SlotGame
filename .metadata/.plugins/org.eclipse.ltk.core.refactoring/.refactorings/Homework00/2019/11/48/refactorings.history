@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;test.py&apos; to &apos;Homework0&apos;&#x0A;- 元のプロジェクト: &apos;Homework00&apos;&#x0A;- 宛先要素: &apos;Homework0&apos;&#x0A;- オリジナル要素: &apos;test.py&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="ファイルを移動する" element1="test.py" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1574823084423" target="/Homework0" units="0" version="1.0"/>
+</session>

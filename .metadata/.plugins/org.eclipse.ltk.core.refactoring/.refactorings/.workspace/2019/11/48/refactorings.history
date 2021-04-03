@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="リソース &apos;Homework00&apos; を削除" deleteContents="false" description="リソース &apos;Homework00&apos; を削除" element1="/Homework00" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1574823106740"/>&#x0A;<refactoring comment="リソース名 &apos;Homework0&apos; を &apos;Homework00&apos; に変更します" description="リソース &apos;Homework0&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Homework0" name="Homework00" stamp="1574823289595" updateReferences="true"/>
+</session>
